@@ -1,0 +1,2 @@
+var dtFromField = new Date(fieldValues.fld10);
+return dtFromField < new Date(new Date().toDateString());
